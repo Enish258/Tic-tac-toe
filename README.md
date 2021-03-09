@@ -1,1 +1,1 @@
-# Tic-tac-toe
+A basic tic tac toe game written in C
